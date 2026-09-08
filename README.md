@@ -1,8 +1,8 @@
 # Hi, I'm Olivier 👋
 
-**Junior DevOps Engineer** based in Cotonou, Benin — building real infrastructure (Terraform, AWS, CI/CD) on top of real applications, not toy tutorials. Currently preparing the AWS Solutions Architect Associate certification.
+**Junior DevOps Engineer** based in Cotonou, Benin — building real infrastructure (Terraform, AWS, CI/CD) on top of real applications, not toy tutorials. AWS Certified Solutions Architect – Associate.
 
-![AWS SAA](https://img.shields.io/badge/AWS_SAA-In_Progress-orange?logo=amazonaws&logoColor=white)
+![AWS SAA](https://img.shields.io/badge/AWS_SAA-Certified-brightgreen?logo=amazonaws&logoColor=white)
 ![Location](https://img.shields.io/badge/Based_in-Cotonou%2C_Benin-blue)
 
 ---
@@ -73,6 +73,6 @@ More on my portfolio: [portfolio-olivier-junior.vercel.app](https://portfolio-ol
 
 ## Currently
 
-Preparing the **AWS Solutions Architect Associate** certification, and building infrastructure projects to apply it in practice rather than just study the theory — provisioned on demand, verified, torn down (no idle cloud spend).
+**AWS Certified Solutions Architect – Associate.** Building infrastructure projects to apply it in practice rather than leave it as a line on a resume — provisioned on demand, verified, torn down (no idle cloud spend).
 
 [LinkedIn](https://www.linkedin.com/in/olivierjrzz) · [Portfolio](https://portfolio-olivier-junior.vercel.app)
