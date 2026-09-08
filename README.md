@@ -65,6 +65,7 @@
 - **[game-cloud](https://github.com/JuniorZ-spec/game-cloud)** — Kubernetes-based multi-game platform with an ephemeral CI/CD pipeline: spins up a Kind cluster per run, does a rolling update with commit-SHA-tagged images, auto-rolls-back on failure, and ships logs to Loki/Promtail.
 - **[Save Money (PennyWise)](https://github.com/JuniorZ-spec/SAVE-MONEY)** — Expense tracker on AWS EC2, provisioned with Terraform, two-stage CI/CD to a private ECR registry, IAM Role with no stored credentials.
 - **[Twitch Clone](https://github.com/JuniorZ-spec/Twitch-Clone-Project)** — Self-hosted streaming platform on Kubernetes (k3s), provisioned on Azure via Terraform with ArgoCD GitOps and Trivy security scanning in CI.
+- **[Portfolio](https://github.com/JuniorZ-spec/portfolio)** — Source of this portfolio site, built with Next.js and TypeScript. Live at [portfolio-olivier-junior.vercel.app](https://portfolio-olivier-junior.vercel.app).
 
 More on my portfolio: [portfolio-olivier-junior.vercel.app](https://portfolio-olivier-junior.vercel.app)
 
